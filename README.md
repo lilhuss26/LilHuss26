@@ -26,13 +26,18 @@ I am a data analyst with hands-on experience in big data, AI, and data science. 
 ## GitHub Status 
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LilHuss26&theme=city-lights&hide_border=false" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LilHuss26&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=LilHuss26&show_icons=true&locale=en" alt="GitHub Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LilHuss26&show_icons=true&locale=en&layout=compact" alt="Top Languages" />  
 </p>
+
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LilHuss26&theme=city-lights&hide_border=false" />
+</p>
+<!--
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LilHuss26&area=true&hide_border=true&theme=react-dark" width="80%" alt="LilHuss's activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LilHuss26&area=true&hide_border=true&theme=react-dark" width="80%" alt="LilHuss's activity graph" />
 </div>
+-->
