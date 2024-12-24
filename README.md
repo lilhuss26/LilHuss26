@@ -34,5 +34,5 @@ I am a data analyst with hands-on experience in big data, AI, and data science. 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LilHuss26&show_icons=true&locale=en&layout=compact" alt="Top Languages" />  
 </p>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LilHuss26&area=true&hide_border=true&theme=react-dark" width="80%" alt="Mahmoud's activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LilHuss26&area=true&hide_border=true&theme=react-dark" width="80%" alt="LilHuss's activity graph" />
 </div>
