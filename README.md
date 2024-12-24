@@ -3,7 +3,10 @@
 I am a data analyst with hands-on experience in big data, AI, and data science. My journey in data analysis and engineering includes working on real-world projects. I have a strong background in AI-driven projects and a proven track record of mentoring students in SQL and coding.
 
 ## About Me 
-- Take a look to my [Resume]()
+- 🎓 Studying AI @ Kafrelsheikh University (KSU)
+- 📝 Take a look at my [Resume](https://github.com/LilHuss26/LilHuss26/blob/main/Hussam%20Elnemr%20Data%20Analyst.pdf)
+- 👨🏻‍💻 Programming mentor
+- 🐯 I enjoy reading books 📚, and listening to music 🎶
 ## Connect with Me
 <div align="center">
   <a href="https://discord.com/users/lilhuss17" target="_blank">
