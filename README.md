@@ -7,6 +7,14 @@ I am a data analyst with hands-on experience in big data, AI, and data science. 
 - 📝 Take a look at my [Resume](https://github.com/LilHuss26/LilHuss26/blob/main/Hussam%20Elnemr%20Data%20Analyst.pdf)
 - 👨🏻‍💻 Programming mentor
 - 🐯 I enjoy reading books 📚, and listening to music 🎶
+## Languages & Tools  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+</p>
+
+
 ## Connect with Me
 <div align="center">
   <a href="https://discord.com/users/lilhuss17" target="_blank">
