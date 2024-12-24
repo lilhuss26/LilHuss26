@@ -22,13 +22,17 @@ I am a data analyst with hands-on experience in big data, AI, and data science. 
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode" />
   </a>
 </div>
+
 ## GitHub Status 
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LilHuss26" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LilHuss26&theme=city-lights&hide_border=true" />
 </p>
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=LilHuss26&show_icons=true&locale=en" alt="GitHub Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LilHuss26&show_icons=true&locale=en&layout=compact" alt="Top Languages" />  
 </p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudNamNam&area=true&hide_border=true&theme=react-dark" width="80%" alt="Mahmoud's activity graph" />
+</div>
