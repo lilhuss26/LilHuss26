@@ -26,7 +26,7 @@ I am a data analyst with hands-on experience in big data, AI, and data science. 
 ## GitHub Status 
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LilHuss26&theme=city-lights&hide_border=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LilHuss26&theme=city-lights&hide_border=false" />
 </p>
 
 <p align="center">
@@ -34,5 +34,5 @@ I am a data analyst with hands-on experience in big data, AI, and data science. 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LilHuss26&show_icons=true&locale=en&layout=compact" alt="Top Languages" />  
 </p>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudNamNam&area=true&hide_border=true&theme=react-dark" width="80%" alt="Mahmoud's activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LilHuss26&area=true&hide_border=true&theme=react-dark" width="80%" alt="Mahmoud's activity graph" />
 </div>
