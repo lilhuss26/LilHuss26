@@ -55,11 +55,9 @@ I am a data analyst with hands-on experience in big data, AI, and data science. 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=LilHuss26&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<!--
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LilHuss26&show_icons=true&locale=en&layout=compact" alt="Top Languages" />  
 </p>
--->
 
 <!--
 <div align="center">
