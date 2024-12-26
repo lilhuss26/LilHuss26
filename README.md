@@ -33,7 +33,7 @@ I am a data analyst with hands-on experience in big data, AI, and data science. 
 ## Connect with Me
 <div align="center">
   <a href="https://discord.com/users/lilhuss17" target="_blank">
-    <img src="https://www.androidheadlines.com/wp-content/uploads/2021/05/Screenshot-310-1420x706.webp"  width="100" height="35" alt="Discord" />
+    <img src="https://www.videogameschronicle.com/files/2021/05/discord-new-logo.jpg"  width="100" height="35" alt="Discord" />
   </a>
   <a href="https://www.linkedin.com/in/lilhuss26/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
