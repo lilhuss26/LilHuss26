@@ -27,7 +27,7 @@ I am a data analyst with hands-on experience in big data, AI, and data science. 
   <img src="https://i.namu.wiki/i/QAax45jgOehPZ2oX7i1bJGZxFV5IbjBqOub2I1eETCEGyjXui8LPpTZRjt2rXeOmNcM8XxFcofkAzRDP7TxNkg.webp" height="40" alt="Matplotlib" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
-  <img src="https://api.nuget.org/v3-flatcontainer/langchain.core/0.17.0/icon" width="70" height="45" alt="LangChain" />
+  <img src="https://api.nuget.org/v3-flatcontainer/langchain.core/0.17.0/icon" width="40" height="50" alt="LangChain" />
   <img src="https://www.pythonguis.com/static/images/libraries/pyqt5.png" height="40" alt="PyQt" />
 
 </p>
