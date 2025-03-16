@@ -4,7 +4,7 @@ I am a data analyst with hands-on experience in big data, and data science. My j
 
 ## About Me 
 - 🎓 Studying AI @ Kafrelsheikh University (KSU)
-- 📝 Take a look at my [Resume](https://github.com/LilHuss26/LilHuss26/blob/main/Hussam%20Elnemr%20Data%20Analyst.pdf)
+- 📝 Take a look at my [Resume](https://github.com/lilhuss26/LilHuss26/blob/main/Hussam%20Elnemr%20Resume.pdf)
 - 👨🏻‍💻 Programming mentor
 - 🐯 I enjoy reading books 📚, and listening to music 🎶
 
