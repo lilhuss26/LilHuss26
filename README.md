@@ -53,12 +53,12 @@ I am a data analyst with hands-on experience in big data, and data science. My j
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LilHuss26&theme=github-dark&hide_border=false" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=LilHuss26&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+</p> -->
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LilHuss26&show_icons=true&locale=en&layout=compact&cache_seconds=3600" alt="Hussam Top Languages" />  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LilHuss26&show_icons=true&locale=en&layout=compact&cache_seconds=3600&size_weight=0.1&count_weight=1" alt="Hussam Top Languages" />  
 </p>
 
 <div align="center">
