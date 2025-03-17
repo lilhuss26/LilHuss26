@@ -50,7 +50,7 @@ I am a data analyst with hands-on experience in big data, and data science. My j
 
 ## GitHub Status 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LilHuss26&theme=meta-dark&hide_border=false" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LilHuss26&theme=github-dark&hide_border=false" />
 </p>
 
 <p align="center">
