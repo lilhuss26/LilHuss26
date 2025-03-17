@@ -58,7 +58,7 @@ I am a data analyst with hands-on experience in big data, and data science. My j
 </p> -->
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LilHuss26&show_icons=true&locale=en&layout=compact&cache_seconds=3600&size_weight=0.1&count_weight=1" alt="Hussam Top Languages" />  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LilHuss26&show_icons=true&locale=en&layout=donut-vertical&cache_seconds=3600&size_weight=0.2&count_weight=0.5&hide=html" alt="Hussam Top Languages" />  
 </p>
 
 <div align="center">
