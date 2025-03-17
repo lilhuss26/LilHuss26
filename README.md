@@ -62,5 +62,5 @@ I am a data analyst with hands-on experience in big data, and data science. My j
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LilHuss26&area=true&hide_border=true&theme=github-compact&days=10" width="80%" alt="LilHuss's activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LilHuss26&area=true&hide_border=true&theme=github-compact&days=15" width="80%" alt="LilHuss's activity graph" />
 </div>
