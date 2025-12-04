@@ -25,7 +25,7 @@ I am a data analyst with hands-on experience in big data, and data science. My j
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" height="40" alt="Spark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img src="https://i.namu.wiki/i/QAax45jgOehPZ2oX7i1bJGZxFV5IbjBqOub2I1eETCEGyjXui8LPpTZRjt2rXeOmNcM8XxFcofkAzRDP7TxNkg.webp" height="40" alt="Matplotlib" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/FastAPI_logo.svg/2560px-FastAPI_logo.svg.png" height="40" alt="FastAPI" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
   <img src="https://miro.medium.com/v2/resize:fit:622/1*MVJZLfszGGNiJ-UFK4U31A.png" height="40" alt="LangChain" />
