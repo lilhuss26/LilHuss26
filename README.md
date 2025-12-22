@@ -16,7 +16,6 @@ I am a data analyst with hands-on experience in big data, and data science. My j
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50" height="50"/>
 </p>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" alt="Power BI" />
@@ -49,16 +48,16 @@ I am a data analyst with hands-on experience in big data, and data science. My j
 
 ## GitHub Status 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LilHuss26&show_icons=true&locale=en&layout=donut-vertical&cache_seconds=3600&size_weight=0.2&count_weight=0.5&hide=html" alt="Hussam Top Languages" />  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilhuss26&theme=gotham&layout=compact&hide_border=true&size_weight=0.2&count_weight=0.5&hide=html" alt="Hussam Top Languages" />  
 </p>
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LilHuss26&theme=github-dark&hide_border=false" />
 </p>
 
-<!-- <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=LilHuss26&show_icons=true&locale=en" alt="GitHub Stats" />
-</p> -->
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LilHuss26&theme=gotham&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LilHuss26&area=true&hide_border=true&theme=github-compact&days=15" width="80%" alt="LilHuss's activity graph" />
