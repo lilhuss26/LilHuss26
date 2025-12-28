@@ -1,9 +1,12 @@
 ## Hello, World!
 <img align="right" src="https://komarev.com/ghpvc/?username=LilHuss26" alt="Profile Views" />
-I am a data analyst with hands-on experience in big data, and data science. My journey in data analysis and engineering includes working on real-world projects. I have a strong background in AI-driven projects and a proven track record of mentoring students in SQL and coding.
+
+I’m a software engineer focused on big data, Gen-AI, and backend systems.  
+I work on real-world projects through freelance work and by building my startup, [Axiora](https://www.axiora.software).
 
 ## About Me 
-- 🎓 Studying AI @ Kafrelsheikh University (KSU)
+- 🎓 AI graduate @ Kafrelsheikh University (KSU)
+- ⚙️Technical Team Lead at [Axiora](https://www.axiora.software)
 - 📝 Take a look at my [Resume](https://github.com/lilhuss26/LilHuss26/blob/main/Hussam%20Elnemr%20Resume.pdf)
 - 👨🏻‍💻 Programming mentor
 - 🐯 I enjoy reading books 📚, and listening to music 🎶
