@@ -14,7 +14,7 @@ I am a data analyst with hands-on experience in big data, and data science. My j
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg.png" alt="Go" width="40" height="40"/>
+  <img src="https://toppng.com/public/uploads/preview/golang-logo-png-2382x1058-11735759451sgiq1oyivl.webp" alt="Go" width="40" height="40"/>
 </p>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
