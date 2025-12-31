@@ -6,7 +6,7 @@ I work on real-world projects through freelance work and by building my startup,
 
 ## About Me 
 - 🎓 AI graduate @ Kafrelsheikh University (KSU)
-- ⚙️Technical Team Lead at [Axiora](https://www.axiora.software)
+- ⚙️ Technical Team Lead at [Axiora](https://www.axiora.software)
 - 📝 Take a look at my [Resume](https://github.com/lilhuss26/LilHuss26/blob/main/Hussam%20Elnemr%20Resume.pdf)
 - 👨🏻‍💻 Programming mentor
 - 🐯 I enjoy reading books 📚, and listening to music 🎶
