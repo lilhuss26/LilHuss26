@@ -71,7 +71,7 @@ I work on real-world projects through freelance work and by building my startup,
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=LilHuss26&theme=gotham&show_icons=true&locale=en" alt="GitHub Stats" />
+<img align="center" src="https://github-readme-stats-liart-tau-69.vercel.app/api?username=LilHuss26&theme=gotham&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <div align="center">
