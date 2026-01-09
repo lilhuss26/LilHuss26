@@ -63,17 +63,17 @@ I work on real-world projects through freelance work and by building my startup,
 
 ## GitHub Status 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilhuss26&theme=gotham&layout=compact&hide_border=true&size_weight=0.3&count_weight=0.5&hide=html&langs_count=8" alt="Hussam Top Languages" />  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilhuss26&theme=gotham&layout=compact&hide_border=true&size_weight=0.3&count_weight=0.5&hide=html" alt="Hussam Top Languages" />  
 </p>
 
 <p align="center">
-<img align="center" src="https://streak-stats.demolab.com/?user=LilHuss26&theme=gotham&hide_border=true" alt="GitHub Streak" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LilHuss26&theme=github-dark&hide_border=false" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=LilHuss26&theme=gotham&show_icons=true&hide_border=true&locale=en" alt="GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LilHuss26&theme=gotham&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LilHuss26&area=true&hide_border=true&theme=gotham&custom_title=Contribution%20Graph" width="80%" alt="LilHuss's activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LilHuss26&area=true&hide_border=true&theme=github-compact&days=15" width="80%" alt="LilHuss's activity graph" />
 </div>
