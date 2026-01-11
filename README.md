@@ -36,6 +36,7 @@ I work on real-world projects through freelance work and by building my startup,
 </p>
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" height="40" alt="Spark" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Apache_Kafka_logo.svg/1280px-Apache_Kafka_logo.svg.png" height="40" alt="Kaka" />
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"  height="40" alt="FastAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
   <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/langchain-color.png" height="40" alt="LangChain" />
