@@ -65,7 +65,7 @@ I work on real-world projects through freelance work and by building my startup,
 
 ## GitHub Status 
 <p align="center">
-<img align="center" src="https://github-readme-stats-liart-tau-69.vercel.app/api/top-langs/?username=lilhuss26&theme=gotham&layout=compact&size_weight=0.1&count_weight=0.6&hide=html" alt="Hussam Top Languages" />  
+<img align="center" src="https://github-readme-stats-liart-tau-69.vercel.app/api/top-langs/?username=lilhuss26&theme=gotham&layout=compact&size_weight=0.4&count_weight=0.6&hide=html" alt="Hussam Top Languages" />  
 </p>
 
 <p align="center">
