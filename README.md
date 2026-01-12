@@ -32,11 +32,11 @@ I work on real-world projects through freelance work and by building my startup,
   <img src="https://logodownload.org/wp-content/uploads/2018/03/apache-logo-3.png" height="40" alt="Apache" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" height="40" alt="Power BI" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="40" alt="AWS" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="40" alt="AWS" style="filter: brightness(0) invert(1);" /> 
 </p>
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" height="40" alt="Spark" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Apache_Kafka_logo.svg/1280px-Apache_Kafka_logo.svg.png" height="40" alt="Kaka" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" height="40" alt="Spark" style="filter: brightness(0) invert(1);" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Apache_Kafka_logo.svg/1280px-Apache_Kafka_logo.svg.png" height="40" alt="Kafka" style="filter: brightness(0) invert(1);" />
   <img src="https://flink.apache.org/img/logo/png/1000/flink_squirrel_1000.png" height="40" alt="Flink" />
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"  height="40" alt="FastAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
