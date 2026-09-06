@@ -69,9 +69,9 @@ Software engineer delivering end-to-end systems — working as an AI engineer, a
 <img align="center" src="https://github-readme-stats-liart-tau-69.vercel.app/api/top-langs/?username=lilhuss26&theme=gotham&layout=compact&size_weight=0.2&count_weight=0.8&hide=javascript,html,css" alt="Hussam Top Languages" />  
 </p>
  -->
-<p align="center">
+<!-- <p align="center">
 <img align="center" src="https://github-readme-stats-liart-tau-69.vercel.app/api?username=LilHuss26&theme=gotham&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+</p> -->
 
 <!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LilHuss26&area=true&hide_border=true&theme=github-compact&days=15" width="80%" alt="LilHuss's activity graph" />
