@@ -1,4 +1,3 @@
-## Hello, World!
 <!-- <img align="right" src="https://komarev.com/ghpvc/?username=LilHuss26" alt="Profile Views" />
  -->
 Software engineer delivering end-to-end systems — working as an AI engineer, and building startups.
