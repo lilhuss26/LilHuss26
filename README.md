@@ -1,9 +1,10 @@
 ## Hello, World!
 <!-- <img align="right" src="https://komarev.com/ghpvc/?username=LilHuss26" alt="Profile Views" />
  -->
-I’m a software engineer focused on big data, Gen-AI, and backend systems.  
-I work on real-world projects through freelance work and by building my startup, [Axiora](https://www.axiora.software).
-
+Software engineer delivering end-to-end systems — working as an AI engineer, and building startups.
+- [Axiora](https://www.axiora.software).
+- [Linkoo](http://linkoo.world)
+- [My resume](https://github.com/lilhuss26/LilHuss26/blob/main/Hussam_Elnemr_Resume_AI.pdf)
 <!-- ## About Me 
 - 🎓 AI graduate @ Kafrelsheikh University (KSU)
 - ⚙️ Technical Team Lead at [Axiora](https://www.axiora.software)
@@ -63,15 +64,15 @@ I work on real-world projects through freelance work and by building my startup,
   </a>
 </div>
  -->
-## GitHub Status 
+<!-- ## GitHub Status 
 <p align="center">
 <img align="center" src="https://github-readme-stats-liart-tau-69.vercel.app/api/top-langs/?username=lilhuss26&theme=gotham&layout=compact&size_weight=0.2&count_weight=0.8&hide=javascript,html,css" alt="Hussam Top Languages" />  
 </p>
-
+ -->
 <p align="center">
 <img align="center" src="https://github-readme-stats-liart-tau-69.vercel.app/api?username=LilHuss26&theme=gotham&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LilHuss26&area=true&hide_border=true&theme=github-compact&days=15" width="80%" alt="LilHuss's activity graph" />
-</div>
+ --></div>
